@@ -9,7 +9,7 @@ Construído com o intuito de fixar os conceitos de C# e aprender mais sobre banc
 - SQL 
 
 ## Funcionalidades :joystick:
-É possível ver detsalhes sobre os vendedores (Nome, Email) e compradores(detalhamento).
+É possível ver os detalhes dos vendedores (Nome, Email) e compradores (detalhamento).
 _Vou inserir imagem aqui_
 
 Sendo possível também visualizar as informações sobre as vendas e filtro por data.
