@@ -5,15 +5,11 @@
 Aplicação web, denominada Sales Web, que atua como um relatório de vendas. 
 Construído com o intuito de fixar os conceitos de C# e aprender mais sobre banco de dados, utlizando o padrão de projeto de software MVC (Model-View-Controller). 
 
-## Feito com :woman_technologist:	
-- C#
-- SQL 
-
 ## Funcionalidades :joystick:
 ### Seção de Departamentos 
 É possível visualizar os departamentos cadastrados, os detalhes do mesmo, adicionar um novo ou deletar.
 
-![Department-Section](Images/SalesWebMvc-Department.gif)
+![Department-Section](Images/SalesWebMvc-Departments.gif)
 
 ## Seção de Vendedores
 É possível visualizar os vendedores cadastrados, os detalhes do mesmo, podendo adiconar e deletar.
