@@ -11,7 +11,7 @@ Construído com o intuito de fixar os conceitos de C# e aprender mais sobre banc
 ![Department-Section](Images/SalesWebMvc-Departments.gif)
 
 ## Seção de Vendedores
-É possível visualizar os vendedores cadastrados, os detalhes do mesmo, podendo adiconar e deletar.
+É possível visualizar os vendedores cadastrados, os detalhes do mesmo, podendo adicionar e deletar.
 
 _OBS: Vendedores com vendas realizadas não podem ser deletados!_
 ![Department-Sellers](Images/SalesWebMvc-Sellers.gif)
@@ -19,7 +19,7 @@ _OBS: Vendedores com vendas realizadas não podem ser deletados!_
 ## Seção de Vendas
 É possível visualizar as vendas efetuadas nas datas que o usuário informar.
 
-_OBS: Se não for informado uma data, por padrão, é mostrado do primeiro até o último dia do ano atual._
+_OBS: Se não for informado uma data, por padrão, é mostrado do primeiro dia do ano atual até o dia presente._
 
 Tendo uma busca simples:
 ![Department-SeimpleSearch](Images/SalesWebMvc-SimpleSearch.gif)
