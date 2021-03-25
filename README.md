@@ -8,14 +8,12 @@ Construído com o intuito de fixar os conceitos de C# e aprender mais sobre banc
 ## Funcionalidades :joystick:
 ### Seção de Departamentos 
 É possível visualizar os departamentos cadastrados, os detalhes do mesmo, adicionar um novo ou deletar.
-
 ![Department-Section](Images/SalesWebMvc-Departments.gif)
 
 ## Seção de Vendedores
 É possível visualizar os vendedores cadastrados, os detalhes do mesmo, podendo adiconar e deletar.
 
 _OBS: Vendedores com vendas realizadas não podem ser deletados!_
-
 ![Department-Sellers](Images/SalesWebMvc-Sellers.gif)
 
 ## Seção de Vendas
