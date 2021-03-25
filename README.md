@@ -13,20 +13,22 @@ Construído com o intuito de fixar os conceitos de C# e aprender mais sobre banc
 ### Seção de Departamentos 
 É possível visualizar os departamentos cadastrados, os detalhes do mesmo, adicionar um novo ou deletar.
 
-![Department-Section](Images/SalesWebMvc-Department.mp4)
+![Department-Section](Images/SalesWebMvc-Department.gif)
 
 ## Seção de Vendedores
 É possível visualizar os vendedores cadastrados, os detalhes do mesmo, podendo adiconar e deletar.
+
 _OBS: Vendedores com vendas realizadas não podem ser deletados!_
 
-![Department-Sellers](Images/SalesWebMvc-Sellers.mp4)
+![Department-Sellers](Images/SalesWebMvc-Sellers.gif)
 
 ## Seção de Vendas
 É possível visualizar as vendas efetuadas nas datas que o usuário informar.
+
 _OBS: Se não for informado uma data, por padrão, é mostrado do primeiro até o último dia do ano atual._
 
 Tendo uma busca simples:
-![Department-SeimpleSearch](Images/SalesWebMvc-SimpleSearch.mp4)
+![Department-SeimpleSearch](Images/SalesWebMvc-SimpleSearch.gif)
 
 E uma agrupada por departamento:
-![Department-GroupingSearch](Images/SalesWebMvc-GroupingSearch.mp4)
+![Department-GroupingSearch](Images/SalesWebMvc-GroupingSearch.gif)
