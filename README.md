@@ -1,4 +1,5 @@
 # Sales Web
+![SalesWebMenu](Images/Menu.png)
 
 ## Sobre o projeto :question:
 Aplicação web, denominada Sales Web, que atua como um relatório de vendas. 
@@ -9,8 +10,23 @@ Construído com o intuito de fixar os conceitos de C# e aprender mais sobre banc
 - SQL 
 
 ## Funcionalidades :joystick:
-É possível ver os detalhes dos vendedores (Nome, Email) e compradores (detalhamento).
-_Vou inserir imagem aqui_
+### Seção de Departamentos 
+É possível visualizar os departamentos cadastrados, os detalhes do mesmo, adicionar um novo ou deletar.
 
-Sendo possível também visualizar as informações sobre as vendas e filtro por data.
-_Vou inserir imagem aqui_
+![Department-Section](Images/SalesWebMvc-Department.mp4)
+
+## Seção de Vendedores
+É possível visualizar os vendedores cadastrados, os detalhes do mesmo, podendo adiconar e deletar.
+_OBS: Vendedores com vendas realizadas não podem ser deletados!_
+
+![Department-Sellers](Images/SalesWebMvc-Sellers.mp4)
+
+## Seção de Vendas
+É possível visualizar as vendas efetuadas nas datas que o usuário informar.
+_OBS: Se não for informado uma data, por padrão, é mostrado do primeiro até o último dia do ano atual._
+
+Tendo uma busca simples:
+![Department-SeimpleSearch](Images/SalesWebMvc-SimpleSearch.mp4)
+
+E uma agrupada por departamento:
+![Department-GroupingSearch](Images/SalesWebMvc-GroupingSearch.mp4)
